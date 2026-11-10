@@ -18,7 +18,7 @@
     "react-dom": "19.1.0",
     "react-native-web": "^0.21.0",
     "@expo/metro-runtime": "~6.1.2",
-    "lucide-react-native": "^0.468.0",
+    "lucide-react-native": "1.70.0",
     "react-native-svg": "15.12.1",
     "expo-speech": "~14.0.8",
     "firebase": "^12.4.0"
