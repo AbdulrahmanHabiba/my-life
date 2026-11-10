@@ -1,0 +1,30 @@
+{
+  "name": "my-life",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "web": "expo start --web",
+    "export:web": "expo export --platform web",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "desktop": "electron ."
+  },
+  "dependencies": {
+    "expo": "~54.0.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-dom": "19.1.0",
+    "react-native-web": "^0.21.0",
+    "@expo/metro-runtime": "~6.1.2",
+    "lucide-react-native": "^0.468.0",
+    "react-native-svg": "15.12.1",
+    "expo-speech": "~14.0.8",
+    "firebase": "^12.4.0"
+  },
+  "devDependencies": {
+    "electron": "^39.0.0",
+    "@babel/core": "^7.25.2"
+  }
+}
