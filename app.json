@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "My Life | ماي لايف",
+    "slug": "my-life",
+    "scheme": "mylife",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "web": {
+      "name": "My Life",
+      "bundler": "metro"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mylife.focus"
+    }
+  }
+}
